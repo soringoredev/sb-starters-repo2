@@ -9,7 +9,7 @@ public class NewRestController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello France!";
+        return "Hello Africa22222222222!";
     }
 
 
